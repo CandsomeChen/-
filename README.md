@@ -1,2 +1,4 @@
-# Bag-of-holding
-The law that can be expressed isn’t the permanent one. The name that can be named isn’t the permanent name.
+# 咒术会战
+一个基于java的入门练手小游戏<br>
+## 简介
+做出来太简单了，想添加几个功能。（小孩子不懂事做着玩的，如果有冒犯再说吧。）
